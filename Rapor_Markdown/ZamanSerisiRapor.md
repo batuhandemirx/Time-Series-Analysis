@@ -1,4 +1,4 @@
-﻿# **PROJE BAŞLIĞI**
+
 ## **Zaman Serisinin İncelenmesi**
 Çalışmada kullanılan ve Türkiye’de 2014.01 – 2022.12 dönemi arasındaki aylık istihdam edilen nüfus sayılarını gösteren seri, TÜİK tarafından yayınlanan Temel İşgücü İstatistiklerinden alınmıştır. Kurumsal olmayan çalışma çağındaki tüm nüfus istihdam edilen nüfustur. Burada kurumsal olmayan nüfus üniversite yurtları, yetiştirme yurtları (yetimhane), huzurevi, özel nitelikteki hastane, hapishane, kışla vb. yerlerde ikamet edenler dışında kalan nüfus anlamına gelmektedir. Kurumsal olmayan çalışma çağındaki nüfus ise kurumsal olmayan nüfus içerisindeki 15 ve daha yukarı yaştaki nüfustur.
 
